@@ -1,5 +1,7 @@
 # Online Retail Sales Analysis
 
-### Objective 
-Analyze the retail sales data set in which find what kind of customer buy most of Products and the basis of country how did our product buy, for the basis of age category which age customer contribute 
-more in total_amount.
+## Objective 
+Examine the retail sales data set to determine which customer types purchase the majority of our products, how our products are purchased by country, which age group's customers contribute the most to the overall amount, and which gender's customers contribute the most to the total amount.
+
+## Tools
+Microsoft Excel
