@@ -8,3 +8,5 @@ Microsoft Excel
 
 ## Dashboard
 ![pro2](https://github.com/narendrakharol037/Retail-Sales-Analysis/assets/121941969/4d04622d-79a5-404d-a148-e5135dcd4630)
+
+![pro22](https://github.com/narendrakharol037/Retail-Sales-Analysis/assets/121941969/9f72bd73-6921-4ff5-9dcf-8293e456f6a6)
